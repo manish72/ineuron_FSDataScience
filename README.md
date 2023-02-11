@@ -1,2 +1,2 @@
 # ineuron_FSDataScience
-All my assignments of Full Stack Data Science course  2.0 
+All my assignments and projects of ineuron Full Stack Data Science course  2.0
